@@ -1,0 +1,7 @@
+{
+	"name": "@doni-app/typescript-config",
+	"version": "1.0.0",
+	"description": "Configuração base do TypeScript para o monorepo Doni.",
+	"main": "base.json",
+	"license": "MIT"
+}
