@@ -1,0 +1,8 @@
+{
+  "name": "logistics-service",
+  "scripts": {
+    "build": "make build",
+    "test": "make test",
+    "lint": "make lint"
+  }
+}
