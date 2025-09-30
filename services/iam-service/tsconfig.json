@@ -2,11 +2,11 @@
   "extends": "../../packages/typescript-config/base.json",
   "compilerOptions": {
     "outDir": "dist",
-    "rootDir": "src",
+    "rootDir": ".",
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "incremental": true
   },
-  "include": ["src"],
+  "include": ["src", "test", ".eslintrc.js"],
   "exclude": ["node_modules", "dist"]
 }
