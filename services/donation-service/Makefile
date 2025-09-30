@@ -2,7 +2,7 @@
 
 build:
 	@echo "Building donation-service..."
-	@go build -o app .
+	@go build -o app ./cmd
 
 test:
 	@echo "Testing donation-service..."
